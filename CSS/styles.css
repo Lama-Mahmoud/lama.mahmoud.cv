@@ -1,12 +1,18 @@
+@media(min-width:468px)
+{
+	
+	body{
+		margin-left:15%;
+		margin-right:15%;
+	}
+}
+
+
 h3{
 	background-color: #AADDFF;
 	text-indent: 5%;
 }
 
-body{
-	margin-left:15%;
-	margin-right:15%;
-}
 p{
 	text-indent: 5%;
 	
