@@ -1,8 +1,13 @@
 h3{
 	background-color: #AADDFF;
+	text-indent: 5%;
 }
 
 body{
 	margin-left:10%;
 	margin-right:10%;
+}
+p{
+	text-indent: 5%;
+	
 }
