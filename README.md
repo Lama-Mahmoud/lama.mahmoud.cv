@@ -1,3 +1,3 @@
 # lama.mahmoud.cv
 
-https://github.com/Lama-Mahmoud/lama.mahmoud.cv
+https://lama-mahmoud.github.io/lama.mahmoud.cv/
