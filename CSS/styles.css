@@ -9,7 +9,6 @@
 
 .flex-container {
   display: flex;
-  justify-content:space-between;
  }
 
 h3{
@@ -19,7 +18,7 @@ h3{
 h4{
 	text-indent: 5%;
 }
-p{
+p.info{
 	text-indent: 7%;
 	
 }
@@ -38,4 +37,12 @@ td,th{
 
 img{
 	width:18%;
+}
+
+a{
+	color:grey;
+}
+
+.top{
+	font-size:25px;
 }
