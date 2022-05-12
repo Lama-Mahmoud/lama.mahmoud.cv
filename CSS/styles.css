@@ -2,18 +2,33 @@
 {
 	
 	body{
-		margin-left:15%;
-		margin-right:15%;
+		margin-left:20%;
+		margin-right:20%;
 	}
 }
 
 
 h3{
 	background-color: #AADDFF;
+	text-indent: 3%;
+}
+h4{
 	text-indent: 5%;
 }
-
 p{
-	text-indent: 5%;
+	text-indent: 5%;'
+	font-size
 	
+}
+
+table {
+	text-align:center;
+	
+}
+
+th{
+	background-color:#E7E9EB;
+}
+td,th{
+	padding:10px;
 }
